@@ -12,3 +12,5 @@ The file `data/PGFP_refTE_dm6.csv` contains the list of full-length refrence TE 
 
 The file `data/PGFP_Illumina.csv` contains the list of non-reference TE insertions detected in the Illumina DNA-seq samples from [Siudeja et al (2021) EMBO J](https://www.embopress.org/doi/full/10.15252/embj.2020106388), using `readtagger` [Siudeja et al. (2021) EMBO J](https://www.embopress.org/doi/full/10.15252/embj.2020106388) and `ngs_te_mapper2` [Han et al. (2021) Genetics](https://academic.oup.com/genetics/article/219/2/iyab113/6321957).
 
+
+The table `data/sequences.tab' contains read sequences for singleton insertions and consensus sequences for all other insertions, along with their coordinates and subfamily information. 
